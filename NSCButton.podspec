@@ -14,8 +14,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "http://www.nscookbook.com"
-
-  s.license      = "MIT (example)"
+  s.license      = { :type => 'MIT' }
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.author             = { "Joseph Hoffman" => "NSCookbook@gmail.com" }
