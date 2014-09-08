@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source       = { :git => "https://github.com/NSCookbook/NSCButton.git", :tag => "0.0.1" }
+  s.source       = { :git => "git@github.com:NSCookbook/NSCButton.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
